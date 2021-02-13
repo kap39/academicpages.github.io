@@ -8,13 +8,11 @@ date: 2020-01-01
 location: "City, Country"
 ---
 
-Katie is available for private tuition for GCSE and A-level students taking Mathematics and Further Mathematics. 
+Private tuition for Maths students, from KS3 to Undergraduate level, though predominately GCSE and A-level students taking Mathematics and Further Mathematics. 
 
-Heading 1
+Contact
 ======
 
-Heading 2
-======
+You can view my profile on tutorfair [here](https://www.tutorfair.com/tutor/name/katie/id/177592/profile), or email me directly for more information and better rates.  
 
-Heading 3
-======
+

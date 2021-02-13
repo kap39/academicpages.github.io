@@ -3,18 +3,25 @@ title: "Past Experience"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/past-experience
-venue: "University of Bath, Online"
+venue: "University of Bath/Cardiff University"
 date: 2019-01-01
 location: "Bath, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Past Undergaduate tutoring experience
 
-Heading 1
+2020/2021
 ======
 
-Heading 2
+MA10230: Methods and Applications 1A, *University of Bath* 
+MA10209: Algebra 1A, *University of Bath*
+
+2019/2020
 ======
 
-Heading 3
+MA10230: Methods and Applications 1A, *University of Bath*
+
+2018/2019
 ======
+
+MA1300: Mechanics I, *Cardiff University*
