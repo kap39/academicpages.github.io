@@ -12,7 +12,6 @@ Katie is currently a postgraduate student at the University of Bath, studying fo
 
 Her research lies in theoretical and computational fluid dynamics, focusing on lubrication layer theory. Specifically, she is currently reseraching the formation and evolution of the air lubrication layer that arises from impacting droplets, motivated by the pilot-wave 'bouncing droplet' phenomena. Her supervisors are [Prof. Paul Milewski](https://researchportal.bath.ac.uk/en/persons/paul-milewski/) (50%), [Prof Jonathan Evans](https://people.bath.ac.uk/masjde) (25%) and [Dr. Phil Trinh](https://http://www.ptrinh.com/) (25%).
 
-Outside of research, Katie also tutors undergraduate mathematics students at the university of Bath, and privately tutors KS3 through to A-Level mathematics students. 
 
 ---
 
