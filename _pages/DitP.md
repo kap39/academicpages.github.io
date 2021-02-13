@@ -1,11 +1,11 @@
 ---
-permalink: /non-menu-page/
-title: "Page not in menu"
+permalink: /DitP/
+title: "Drinks in the Parade"
 excerpt: "This is a page not in th emain menu"
 author_profile: true
 redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
+  - "/drinksintheparade/"
+  - "/drinksintheparade.html"
 ---
 
 This is a page not in the menu. You can use markdown in this page.

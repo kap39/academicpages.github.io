@@ -11,6 +11,12 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
+  
+  - title: "SLS 2019/20"
+    url: /SLS/
+
+  - title: "ITT 11"
+    url: /ITT/
     
   - title: "Socials"
     url: /DitP/
