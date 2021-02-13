@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Private Tutoring"
 collection: teaching
-type: "Workshop"
+type: "tutoring"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
-date: 2015-01-01
+date: 2020-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Katie is available for private tuition for GCSE and A-level students taking Mathematics and Further Mathematics. 
 
 Heading 1
 ======
