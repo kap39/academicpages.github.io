@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Bio"
-    url: /bio/    
+  - title: "Research"
+    url: /Research/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -17,7 +17,5 @@ main:
 
   - title: "ITT 11"
     url: /ITT/
-    
-  - title: "Socials"
-    url: /DitP/
+  
 

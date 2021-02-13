@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Katie Phillips"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Katie Phillips"
-description              : &description "PhD Student at the University of Bath"
+description              : &description "She/Her" + "PhD Student at the University of Bath"
 url                      : https://kap39.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kap39/kap39.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Katie Phillips"
+  name             : "Katie A. Phillips"
   avatar           : "profile.jpg"
   bio              : "Mathematical PhD Student at the University of Bath"
   location         : "Bath, UK"
   employer         :
   pubmed           : 
   googlescholar    : #"-"
-  email            :
+  email            :  "kap39@bath.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
