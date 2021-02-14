@@ -64,11 +64,11 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : $Azure-Web-Colour; /* #fff;*/
-$background-color           : $Oxford-Blue; /*#fff;*/
+$background-color           : $Azure-Web-Colour; /*#fff;*/
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$border-color               : $Oxford-Blue; /*$lighter-gray; */
 
 $primary-color              : $Cyber-Grape;     /* #7a8288;*/
 $success-color              : #62c462;
