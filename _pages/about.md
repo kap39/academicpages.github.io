@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-# About Me 
 I'm a postgraduate student at the University of Bath, studying for my integrated PhD in mathematics with the EPSRC Centre for Doctoral Training in Statistical Applied Mathematics (SAMBa). Prior to this, I completed my undergraduate masters degree at Cardiff Univeristy.  
 
 Outside of academia I can be found enjoying various different aerial sports, circus skills and acroyoga. I'm also an avid rugby fan and have been a supporter of my home side The Ospreys since their formation. A fun fact about me: I had my [local stadium named after me]{https://www.ospreysrugby.com/news/welcome-katie-phillips-stadium} for their 10<sup>th</sup> anniversary. 
 
-----
+
 
 ## Current Responsibilities and  Involvements
   * One of the organisers for the '21 virtual [SAMBa Conference]{https://kap39.github.io/SAMBaconference}
@@ -32,6 +31,7 @@ Outside of academia I can be found enjoying various different aerial sports, cir
 
 ----- 
 
+
 # Contact
 
 ## Email:
@@ -39,10 +39,10 @@ kap39 at bath.ac.uk
 
 ## Address:
 <address>
-Office 4W 2.19 </br>
-Department of Mathematical Sciences </br>
-University of Bath</br>
-Bath <br>
+Office 4W 2.19 <br />
+Department of Mathematical Sciences <br />
+University of Bath<br />
+Bath <br />
 BA2 7AY
 </address>
 
