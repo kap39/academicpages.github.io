@@ -13,3 +13,5 @@ This report was submitted as part of the MRes qualification, and acts as a Thesi
 [Download paper here](http://academicpages.github.io/files/MRes.pdf)
 
 Recommended citation: Phillips, Katie A. (2020). "Elucidating the lubrication layer for impacting droplets" <i>MRes Dissertation</i>.
+
+---
