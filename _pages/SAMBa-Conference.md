@@ -2,7 +2,7 @@
 permalink: /SAMBa-Conference/
 title: "SAMBa Conference"
 excerpt: "Information for the virtual SAMBa summer conference 2021"
-author_profile: true
+author_profile: true #sidebar content
 redirect_from: 
   - "/sambaconference/"
   - "/sambaconference.html"
