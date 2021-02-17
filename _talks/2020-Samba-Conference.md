@@ -1,13 +1,11 @@
 ---
-title: "Why skipping stones are the opposite of raindrops "
+title: "Talk 1 on Relevant Topic in Your Field"
 collection: talks
 type: "Talk"
-permalink: /talks/2020-Samba-Conference
-venue: "Virtual"
-date: 2020-07-07
-location: "Bath, Uk"
+permalink: /talks/2012-03-01-talk-1
+venue: "UC San Francisco, Department of Testing"
+date: 2012-03-01
+location: "San Francisco, California"
 ---
 
-This talk was part of the "Lightning round" of talks undertaken by first year SAMBa students. Each given 3 minutes to present work they have recently undertaken during their MRes. My talk focused on the dispersion relation and difference between gravity and capillary waves. 
-
----
+This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
