@@ -17,17 +17,17 @@ main:
 
   
 SAMBa-Conference:
-  -title: "Welcome and Information"
+  - title: "Welcome and Information"
     url:  /SAMBa-Conference/#Welcome-and-Information/
   
-  -title: "Registration"
+  - title: "Registration"
     url: /SAMBa-Conference/#Registration/
     
-  -title: "Schedule"
+  - title: "Schedule"
     url: /SAMBa-Conference/#Schedule
   
-  -title: "Speakers"
+  - title: "Speakers"
     url: /SAMBa-Conference/#Speakers
   
-  -title: "Coordinators"
+  - title: "Coordinators"
     url: /SAMBa-Conference/#Coordinators
