@@ -48,7 +48,7 @@ The conference is being organised by 4 SAMBa PhD students. If you are interested
 ### Chris Dean
  * SAMBa Cohort 6
  * Area of research
-    > Trees? 
+    > Polya urn processes with infinite initial conditions.
  * Contact
     > cbcd20 at bath.ac.uk
 
