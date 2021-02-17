@@ -16,4 +16,18 @@ main:
     url: /SLS-ITT/
 
   
-
+samba-nav:
+  -title: "Welcome and Information"
+    url:  /SAMBa-Conference/#Welcome-and-Information/
+  
+  -title: "Registration"
+    url: /SAMBa-Conference/#Registration/
+    
+  -title: "Schedule"
+    url: /SAMBa-Conference/#Schedule
+  
+  -title: "Speakers"
+    url: /SAMBa-Conference/#Speakers
+  
+  -title: "Coordinators"
+    url: /SAMBa-Conference/#Coordinators
