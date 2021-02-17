@@ -59,4 +59,3 @@ The conference is being organised by 4 SAMBa PhD students. If you are interested
  * Contact
     > kap39 at bath.ac.uk
 
-
