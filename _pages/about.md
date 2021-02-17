@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Biography"
-excerpt: "Biography"
+title: "Home"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+## Biography
 I'm a postgraduate student at the University of Bath, studying for my integrated PhD in mathematics with the EPSRC Centre for Doctoral Training in Statistical Applied Mathematics (SAMBa). Prior to this, I completed my undergraduate masters degree at Cardiff Univeristy.  
 
 Outside of academia I can be found enjoying various different aerial sports, circus skills and acroyoga. I'm also an avid rugby fan and have been a supporter of my home side The Ospreys since their formation. A fun fact about me: I had my [local stadium named after me](https://www.ospreysrugby.com/news/welcome-katie-phillips-stadium) for their 10<sup>th</sup> anniversary. 
