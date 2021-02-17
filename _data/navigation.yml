@@ -12,10 +12,8 @@ main:
   - title: "Blog Posts"
     url: /blog/
   
-  - title: "SLS 2019/20"
-    url: /SLS/
+  - title: "SLS 2019/20 and ITT11"
+    url: /SLS-ITT/
 
-  - title: "ITT 11"
-    url: /ITT/
   
 
