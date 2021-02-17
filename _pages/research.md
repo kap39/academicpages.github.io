@@ -14,6 +14,7 @@ My research lies in theoretical and computational fluid dynamics, focusing on lu
 
 Talks
 =====
+find a list of talks below
 
 {% for post in site.talks reversed %}
   {% include archive-single.html %}
@@ -23,6 +24,7 @@ Talks
 
 Publications
 =====
+Find a list of publications below
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
