@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /home
 ---
 
 ## Biography
@@ -16,7 +17,7 @@ Outside of academia I can be found enjoying various different aerial sports, cir
 
 
 ## Current Responsibilities and  Involvements
-  * One of the organisers for the '21 virtual [SAMBa Conference](https://kap39.github.io/SAMBaconference)
+  * One of the organisers for the '21 virtual [SAMBa Conference](https://kap39.github.io/SAMBa-Conference)
   * Vice President of the Uni of Bath SIAM and IMA student chapter. 
   * STEM Ambassador _since '17_. 
   * One of the coordinators of the Maths Department Yoga sessions and self-appointed emperor of department weekly drinks. 
