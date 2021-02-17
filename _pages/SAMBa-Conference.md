@@ -55,7 +55,7 @@ The conference is being organised by 4 SAMBa PhD students. If you are interested
 ### Yi Sheng Lim
  * SAMBa Cohort 6
  * Area of research
-    > Localization of waves in random media with resonant inclusions. 
+    > Spectral theory of random operators.
  * Contact
     > kap39 at bath.ac.uk
 
