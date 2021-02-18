@@ -12,7 +12,7 @@ redirect_from:
   - "/samba-conference.html"
 ---
 
-# Welcome and Information 
+# [Welcome and Information](#welcome-and-information) 
 
 Welcome to the fifth annual SAMBa Summer Conference. This website will be updated with conference details as they are confirmed. 
 
@@ -21,16 +21,16 @@ The SAMBa conference is an opportunity for students to showcase their work to me
 ## Important Documents
 Find important documents here. 
 
-# Registration 
+# [Registration](#registration) 
 A registration form for speakers and attendees will appear here soon. 
 
-# Schedule
+# [Schedule](#schedule)
 Coming soon.
 
-# Speakers
+# [Speakers](#speakers)
 A full list of speakers, and abstracts coming soon.  
 
-# Coordinators
+# [Coordinators](#coordinators)
 
 The conference is being organised by 4 SAMBa PhD students. If you are interested in attending, giving a talk, or have any questions please feel free to contact any of us 
 
