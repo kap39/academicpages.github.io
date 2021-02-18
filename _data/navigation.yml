@@ -17,10 +17,10 @@ main:
 
 conf:
   - title: "Welcome and Information"
-    url:  /SAMBa-Conference/#welcome-and-information/
+    url:  /SAMBa-Conference/#welcome-and-information
   
   - title: "Registration"
-    url: /SAMBa-Conference/#registration/
+    url: /SAMBa-Conference/#registration
     
   - title: "Schedule"
     url: /SAMBa-Conference/#schedule
