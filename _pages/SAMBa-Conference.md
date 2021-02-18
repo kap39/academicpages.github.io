@@ -34,31 +34,8 @@ A full list of speakers, and abstracts coming soon.
 
 The conference is being organised by 4 SAMBa PhD students. If you are interested in attending, giving a talk, or have any questions please feel free to contact any of us 
 
-### Katie Phillips
- * SAMBa Cohort 6
- * Area of research
-    > Theoretical and Computational Fluid Dynamics, with a focus on lubrication layer theory and interfacial waves. 
- * Contact
-    > kap39 at bath.ac.uk
-
-### Shahzeb Raja Noureen
- * SAMBa Cohort 6
- * Area of research
-    > Stochastic modelling of melanoblast neural crest cells. 
- * Contact
-    > srn32 at bath.ac.uk
-
-### Chris Dean
- * SAMBa Cohort 6
- * Area of research
-    > Polya urn processes with infinite initial conditions.
- * Contact
-    > cbcd20 at bath.ac.uk
-
-### Yi Sheng Lim
- * SAMBa Cohort 6
- * Area of research
-    > Spectral theory of random operators.
- * Contact
-    > kap39 at bath.ac.uk
+|Katie Phillips | Shahzeb Raja Noureen | Chris Dean | Yi Sheng Lim | 
+|:-------------:|:--------------------:|:----------:|:------------:|
+|Fluid dynamics focusing <br> on lubrication layer theory and interfacial waves |Stochastic modelling of melanoblast neural crest cells|Polya urn processes with infinite initial conditions|Spectral theory of random operators|
+|kap39 at bath.ac.uk | srn32 at bath.ac.uk | cbcd20 at bath.ac.uk | ysl64 at bath.ac.uk |
 
