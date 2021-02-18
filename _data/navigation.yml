@@ -15,8 +15,7 @@ main:
   - title: "Other SAMBa Pages"
     url: /SLS-ITT/
 
-  
-SAMBa-Conference:
+conf:
   - title: "Welcome and Information"
     url:  /SAMBa-Conference/#Welcome-and-Information/
   
