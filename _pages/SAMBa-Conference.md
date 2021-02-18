@@ -4,7 +4,7 @@ title: "SAMBa Conference"
 excerpt: "Information for the virtual SAMBa summer conference 2021"
 author_profile: false # true #sidebar content
 sidebar: 
-   nav: "sAMBa-Conference"
+   nav: "SAMBa-Conference"
 redirect_from: 
   - "/sambaconference/"
   - "/sambaconference.html"
