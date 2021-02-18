@@ -1,7 +1,7 @@
 ---
-title: 'How to make my website'
+title: 'Thoughts when making this website'
 date: 2021-02-16
-permalink: /posts/2021/02/How-to-make-my-website
+permalink: /posts/2021/02/Thoughts-on-this-website
 tags:
   - How to Guide
   - First Post
