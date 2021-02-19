@@ -30,4 +30,4 @@ Vector addition and vector-scalar multiplication. Interpretation of dot product 
 Week 3
 ======
 
-tbc.
+Scalar triple product \$\[\mathbf{a},\mathbf{b},\mathbf{c}\] = \mathbf{a}\cdot( \mathbf{b}\times \mathbf{c})\$, vector triple product \$ \mathbf{a}\times(\mathbf{b}\times \mathbf{c})\$. 
