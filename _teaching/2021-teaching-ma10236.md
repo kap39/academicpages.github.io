@@ -45,13 +45,13 @@ Week 2
 * Dot product
     * \$ \mathbf{a} \cdot \mathbf{b} = \sum a_i b_i = \Vert\mathbf{a}\Vert \Vert\mathbf{b} \Vert \cos(\theta)\$. 
     * equal to zero when the vectors are perpendicular. 
-    * \$ \mathbf{a} \cdot \mathbf{a} = \Vert\mathbf{a}\Vert^2 
+    * \$ \mathbf{a} \cdot \mathbf{a} = \Vert\mathbf{a}\Vert^2 \$
     * returns a scalar value. 
 * Cross product
     * \$ \mathbf{a} \times \mathbf{b}\$ returns a vector which is orthogonal to both \$ \mathbf{a} \$ and \$ \mathbf{b}\$. 
     * a vector cross producted with itself returns the zero vector. 
     * \$ \Vert \mathbf{a} \times \mathbf{b} \Vert \$ gives the area of the parallelogram spanned by \$ \mathbf{a}\$ and \$\mathbf{b}\$.
-    * \$ \Vert \mathbf{a} \times \mathbf{b} \Vert = \Vert\mathbf{a} \VErt \Vert \mathbf{b}\Vert \sin(\theta)\$ 
+    * \$ \Vert \mathbf{a} \times \mathbf{b} \Vert = \Vert\mathbf{a} \Vert \Vert \mathbf{b}\Vert \sin(\theta)\$ 
     * If equal to zero, the two vectors are parallel. 
     * Is the determinant of the matrix whose rows are the cartesian spanning vectors, \$ \mathbf{a}\$, and \$\mathbf{b}\$ respectively.
 
