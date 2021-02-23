@@ -62,7 +62,7 @@ Week 3
     * \$\[\mathbf{a},\mathbf{b},\mathbf{c}\] = \mathbf{a}\cdot( \mathbf{b}\times \mathbf{c})\$
     * The scalar triple product calculates the volume of the parallelepiped spanned by the three vectors. 
     * When it's \$0\$ the three vectors are coplanar. 
-        * Note: Three vectors are coplaner if there exists three scalars \$  \lambda, \mu, \nu \$ with \$\lambda^2 + \mu^2 + \nu^2 >0\$ such that \$ \lambda \mathbf{a} + \mu \mathbf{b} + \nu \mathbf{c} = \mathbf{0}$. 
+        * Note: Three vectors are coplanar if there exists three scalars \$  \lambda, \mu, \nu \$ with \$\lambda^2 + \mu^2 + \nu^2 >0\$ such that \$ \lambda \mathbf{a} + \mu \mathbf{b} + \nu \mathbf{c} = \mathbf{0}$. 
     * It's the same up to cyclic permutations, but swaps sign when only two swap places. 
     * If any two of the vectors in the scalar triple products are the same, it's equal to zero (see coplanar). 
     * \$\lambda \[\mathbf{a},\mathbf{b},\mathbf{c}\] = \[\lambda \mathbf{a},\mathbf{b},\mathbf{c}\] \$
