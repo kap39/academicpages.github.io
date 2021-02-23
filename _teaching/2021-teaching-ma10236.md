@@ -72,5 +72,5 @@ Week 3
 * Equation of a straight line 
     * If a line is defined with \$\mathbf{r} = \mathbf{a} + \lambda \mathbf{l}\$ then it can be throught of as the line passing through \$\mathbf{a}\$ in the direction given by $\mathbf{l}\$, then each point on the line is given by a different value of the scale parameter \$\lambda\$. 
     * Alternate form: \$ (\mathbf{r} - \mathbf{a}) \times \mathbf{l} = \mathbf{0}$. 
-    * Two lines ( $\mathbf{r} = \mathbf{a}+\lambda \mathbf{l}\$, \$\mathbf{r} = \mathbf{b} + \mu \mathbf{m}\$) intersect iff \$\[\mathbf{a},\mathbf{l},\mathbf{m}\]  = \[\mathbf{a},\mathbf{l},\mathbf{m}\] \$. 
+    * Two lines ( $\mathbf{r} = \mathbf{a}+\lambda \mathbf{l}\$, \$\mathbf{r} = \mathbf{b} + \mu \mathbf{m}\$) intersect iff \$\[\mathbf{a},\mathbf{l},\mathbf{m}\]  = \[\mathbf{b},\mathbf{l},\mathbf{m}\] \$. 
         * This can be used to find common perpendiculars to two lines. 
