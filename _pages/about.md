@@ -10,17 +10,24 @@ redirect_from:
 ---
 
 ## Biography
-I'm a postgraduate student at the University of Bath, studying for my integrated PhD in mathematics with the EPSRC Centre for Doctoral Training in Statistical Applied Mathematics (SAMBa). Prior to this, I completed my undergraduate masters degree at Cardiff Univeristy. I have been tutoring first year undergraduate Mathematics for nearly three years and over the last year I have started [pivate tuition](https://www.tutorfair.com/tutor/name/katie/id/177592/profile) for KS3, GCSE and A level mathematics students.   
+I'm a postgraduate student at the University of Bath, studying for my integrated PhD in mathematics with the EPSRC Centre for Doctoral Training in Statistical Applied Mathematics (SAMBa). Prior to this, I completed my undergraduate masters degree at Cardiff Univeristy. I have been tutoring first year undergraduate mathematics for nearly three years and over the last year I have started [private tuition](https://www.tutorfair.com/tutor/name/katie/id/177592/profile) for KS3, GCSE and A level mathematics students.   
 
 Outside of academia I can be found enjoying various different aerial sports, circus skills and acroyoga. I'm also an avid rugby fan and have been a supporter of my home side The Ospreys since their formation. A fun fact about me: I had my [local stadium named after me](https://www.ospreysrugby.com/news/welcome-katie-phillips-stadium) for their 10<sup>th</sup> anniversary. 
 
 
+## Responsibilities and  Involvements
 
-## Current Responsibilities and  Involvements
+#### Current
   * One of the organisers for the '21 virtual [SAMBa Conference](https://kap39.github.io/SAMBa-Conference)
   * Vice President of the Uni of Bath SIAM and IMA student chapter. 
-  * STEM Ambassador _since '17_. 
+  * STEM Ambassador since _'17_. 
   * One of the coordinators of the Maths Department Yoga sessions and self-appointed emperor of department weekly drinks. 
+
+#### Previous
+  * Student-led Symposia coordinator _Semester 1 '19/20_
+  * One of the coordinators for SAMBA's Integrative Think Tank (ITT 11) _Jan '20_
+  * Bathematician volunteer _'19/20_
+
 
 ## Conferences and Symposia
   * Attended SAMBa's virtual [13<sup>th</sup> Integrative think tank](https://people.bath.ac.uk/mtp34/itt13.html) - _Jan '21_
@@ -32,7 +39,6 @@ Outside of academia I can be found enjoying various different aerial sports, cir
   * Attended [UKFN PhD/Early Careers Conference](http://www.cardiffmaths.co.uk/ukfn.html) - _Jul '18_
 
 ----- 
-
 
 # Contact
 
