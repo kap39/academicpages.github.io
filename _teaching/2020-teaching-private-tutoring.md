@@ -2,7 +2,7 @@
 title: "Private Tuition"
 collection: teaching
 type: "Tutoring"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/private-tuition
 venue: ""
 date: 2020-01-01
 location: ""
