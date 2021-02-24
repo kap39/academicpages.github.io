@@ -22,7 +22,7 @@ For anyone looking for a good cawl (welsh lamb and vegetable stew) recipe here's
   * 1 Bouquet Garni
 
 
- ### Method
+### Method
 
  * Place lamb into slow cooker/large stock pot and fill with water to cover.
  * Allow to cook for 4-5 hours on a low setting/heat. 
