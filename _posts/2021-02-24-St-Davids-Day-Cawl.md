@@ -10,8 +10,8 @@ For anyone looking for a good cawl (welsh lamb and vegetable stew) recipe here's
 
 ### Ingredients
 
- * Lamb Shoulder (ask the butcher for amount for the number of servings)
- * With vegetables, use the ratio of 1 of each for about 4 servings, and scale for preference (I like more carrot/parsnip and less potato)
+ * Lamb Shoulder (ask the butcher for amount for the number of servings but about 300g per person)
+ * With vegetables, use the ratio of 1-2 of each for about 4 servings, and scale for preference (I like more carrot/parsnip and less potato)
     * Carrot
     * Swede
     * Potato
