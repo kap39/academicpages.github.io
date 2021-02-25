@@ -71,6 +71,18 @@ Week 3
     * \$ \mathbf{a}\times(\mathbf{b}\times \mathbf{c}) \ne  (\mathbf{a}\times\mathbf{b})\times \mathbf{c} \$ (Not associative!!).
 * Equation of a straight line 
     * If a line is defined with \$\mathbf{r} = \mathbf{a} + \lambda \mathbf{l}\$ then it can be throught of as the line passing through \$\mathbf{a}\$ in the direction given by $\mathbf{l}\$, then each point on the line is given by a different value of the scale parameter \$\lambda\$. 
-    * Alternate form: \$ (\mathbf{r} - \mathbf{a}) \times \mathbf{l} = \mathbf{0}$. 
+    * Alternate form: \$ (\mathbf{r} - \mathbf{a}) \times \mathbf{l} = \mathbf{0}$. (Implies that \$\overrightarrow{AR} \Vert \mathbf{l}\$).
     * Two lines ( $\mathbf{r} = \mathbf{a}+\lambda \mathbf{l}\$, \$\mathbf{r} = \mathbf{b} + \mu \mathbf{m}\$) intersect iff \$\[\mathbf{a},\mathbf{l},\mathbf{m}\]  = \[\mathbf{b},\mathbf{l},\mathbf{m}\] \$. 
         * This can be used to find common perpendiculars to two lines. 
+        * means that \$ \mathbf{a}-\mathbf{b}, \mathbf{l}, \mathbf{m}\$ are coplanar. 
+    
+
+Week 4
+======
+
+* Common perpendicular of two lines \$\mathbf{r} = \mathbf{a} + \lambda\mathbf{l}\$ and $\mathbf{r} = \mathbf{b} + \mu \mathbf{m}\$. 
+    * This is the shortest distance between the two lines. 
+    * Has the form \$\mathbf{r} = \mathbf{c} + \nu \mathbf{n}\$, where $\mathbf{n} = \mathbf{l}\times\mathbf{m}\$, and $\mathbf{c}\$ is a point on one of the lines. 
+* Equation of a plane \$\Pi\$.
+    * parametric form: \$ \mathbf{r} = \mathbf{a} + \lambda \mathbf{l} + \mu\mathbf{m}$, for $\mathbf{l}, \mathbf{m}\$ parallel to \$\Pi\$, and unique scalars \$\lambda, \mu\$. 
+    * Normal and a point: \$ (\mathbf{r}-\mathbf{a}).\mathbf{N}=0. Or \$ \mathbf{r}\cdot \mathbf{N} = \mathbf{a}\cdot \mathbf{N}\$. 
