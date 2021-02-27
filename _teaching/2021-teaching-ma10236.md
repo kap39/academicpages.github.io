@@ -85,4 +85,4 @@ Week 4
     * Has the form \$\mathbf{r} = \mathbf{c} + \nu \mathbf{n}\$, where $\mathbf{n} = \mathbf{l}\times\mathbf{m}\$, and $\mathbf{c}\$ is a point on one of the lines. 
 * Equation of a plane \$\Pi\$.
     * parametric form: \$ \mathbf{r} = \mathbf{a} + \lambda \mathbf{l} + \mu\mathbf{m}$, for $\mathbf{l}, \mathbf{m}\$ parallel to \$\Pi\$, and unique scalars \$\lambda, \mu\$. 
-    * Normal and a point: \$ (\mathbf{r}-\mathbf{a}).\mathbf{N}=0. Or \$ \mathbf{r}\cdot \mathbf{N} = \mathbf{a}\cdot \mathbf{N}\$. 
+    * Normal and a point: \$ (\mathbf{r}-\mathbf{a}).\mathbf{N}=0 \$ . Or \$ \mathbf{r}\cdot \mathbf{N} = \mathbf{a}\cdot \mathbf{N}\$. 
