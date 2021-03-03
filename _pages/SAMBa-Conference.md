@@ -25,7 +25,7 @@ The SAMBa conference is an opportunity for students to showcase their work to me
 Find important documents here. 
 
 # [Registration](#registration) 
-A registration form for speakers and attendees will appear here soon. 
+If you would like to register your attendance to the conference please complete the form [here](https://forms.office.com/Pages/ResponsePage.aspx?id=Ij1-N6FOLUKwrY_MiUBrnrhm9py2vv5OqeESICF49LlUQUQyTVdSODlaVlhORExXQUc4ODQxT05ESyQlQCN0PWcu "Registration Form").
 
 # [Schedule](#schedule)
 Coming soon.
