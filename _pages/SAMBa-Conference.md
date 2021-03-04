@@ -42,3 +42,17 @@ The conference is being organised by 4 SAMBa PhD students. If you are interested
 |Fluid dynamics focusing <br> on lubrication layer theory and interfacial waves |Stochastic modelling of melanoblast neural crest cells|Polya urn processes with infinite initial conditions|Spectral theory of random operators|
 |kap39 at bath.ac.uk | srn32 at bath.ac.uk | cbcd20 at bath.ac.uk | ysl64 at bath.ac.uk |
 
+{% raw %}
+ <div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img src="img_avatar.png" alt="Avatar" style="width:300px;height:300px;">
+    </div>
+    <div class="flip-card-back">
+      <h1>John Doe</h1>
+      <p>Architect & Engineer</p>
+      <p>We love that guy</p>
+    </div>
+  </div>
+</div> 
+{% endraw %}
