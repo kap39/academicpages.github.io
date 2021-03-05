@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - "/drinksintheparade/"
   - "/drinksintheparade.html"
+  - "/ditp"
+  - "/ditp.html"
 ---
 
 
