@@ -12,7 +12,7 @@ redirect_from:
 DitP Info
 ======
 
-Hey Bath PhD and Postgraduates. If you're looking for information about Friday night drinks you've come to the right place. Here you can find the timetable for what events we have on, as well as the rules/information about some of the games we play regularly. 
+Hey Bath PhD and Postgraduates. If you're looking for information about Friday night drinks you've come to the right place. Here you can find the timetable for what events we have on, as well as the rules/information about some of the games we play regularly. You can find the rules for Werewolf [here](http://kap39.github.io/files/Werewolf-Rules.pdf).
 
 Schedule
 ======
@@ -36,3 +36,4 @@ Schedule
 |16/04|tbc|5:30 (8:00)|
 |23/04|-|5:30|
 |30/04|tbc| 5:30 (8:00)|
+
