@@ -1,5 +1,7 @@
 {
     "spellchecker.ignoreWordsList": [
-        "GCSE"
+        "GCSE",
+        "bootable",
+        "USBs"
     ]
 }
