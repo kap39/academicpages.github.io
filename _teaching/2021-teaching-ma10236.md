@@ -145,4 +145,4 @@ Week 6
 * Cartesian to cylindrical polar basis vectors: 
     * \$ \mathbf{e}_r = \cos\theta \mathbf{i} + \sin \theta \mathbf{j} \$.
     * \$ \mathbf{e}_\theta = -\sin \theta \mathbf{i} + \cos \theta \mathbf{j} \$. 
-    * \$ \mathbf{e}_z} = \mathbf{k} \$. 
+    * \$ \mathbf{e}_z = \mathbf{k} \$. 
