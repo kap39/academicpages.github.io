@@ -128,7 +128,7 @@ Week 6
 * Differentiating vectors: 
     * \$ \frac{d}{dt} ( \mathbf{c}) = \mathbf{0} \$. 
     * \$ \frac{d}{dt} ( \mathbf{r}_1(t) + \mathbf{r}_2(t)) = \frac{d}{dt}(\mathbf{r}_1(t)) + \frac{d}{dt}(\mathbf{r}_2(t))\$. 
-    * \$ \frac{d}{dt}(\mathbf{r}_1(t) \cdot \mathbf{r}_2(t)) = \frac{d\mathbf{r}_1}{dt} \cdot \mathbf{r}_2 +  \mathbf{r}_1\cdot \frac{d\mathbf{r}_2}{dt}
+    * \$ \frac{d}{dt}(\mathbf{r}_1(t) \cdot \mathbf{r}_2(t)) = \frac{d\mathbf{r}_1}{dt} \cdot \mathbf{r}_2 +  \mathbf{r}_1\cdot \frac{d\mathbf{r}_2}{dt} \$.
     * \$  \frac{d}{dt}(\mathbf{r}_1(t) \times \mathbf{r}_2(t)) \frac{d\mathbf{r}_1}{dt} \times \mathbf{r}_2 +  \mathbf{r}_1\times\frac{d\mathbf{r}_2}{dt} \$. Order matters.
 * Position vector of a particle \$ P\$ is given by \$ \mathbf{x}(t)\$.
     * \$ r(t) = \Vert \mathbf{x}(t) \Vert \$. 
