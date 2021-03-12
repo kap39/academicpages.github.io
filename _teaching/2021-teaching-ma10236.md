@@ -86,3 +86,29 @@ Week 4
 * Equation of a plane \$\Pi\$.
     * parametric form: \$ \mathbf{r} = \mathbf{a} + \lambda \mathbf{l} + \mu\mathbf{m}$, for $\mathbf{l}, \mathbf{m}\$ parallel to \$\Pi\$, and unique scalars \$\lambda, \mu\$. 
     * Normal and a point: \$ (\mathbf{r}-\mathbf{a}).\mathbf{N}=0 \$ . Or \$ \mathbf{r}\cdot \mathbf{N} = \mathbf{a}\cdot \mathbf{N}\$. 
+
+Week 5
+======
+Given a position vector \$ \mathbf{r} = \mathbf{r}(t) = x(t)\mathbf{i} + y(t)\mathbf{j} + z(t)\mathbf{k}\$.
+* The equation of a straight line can be described as \$ \mathbf{r} = \mathbf{a} + \lambda \mathbf{l}\$. 
+* The derivative \$\mathbf{r}^\prime(t) = x^\prime(t)\mathbf{i} + y^\prime(t)\mathbf{j} + z^\prime(t)\mathbf{k}\$.
+* \$ \frac{d}{dt}(\Vert\mathbf{r}\Vert) = \frac{1}{\Vert \mathbf{r}\Vert}\mathbf{r}\cdot \mathbf{r}^\prime \$. 
+* If \$\mathbf{r} = \mathbf{r}(t)\$ and \$t = t(s)\$, then:
+    * arc length: \$ s(t) = \int_{t_0}^t \Vert \mathbf{r}^\prime (\tau)\Vert d\tau \$. 
+    * \$ \frac{ds}{dt} = \Vert \mathbf{r}^\prime \Vert \$.
+    * \$ \frac{d\mathbf{r}}{ds} = \frac{d\mathbf{r}}{dt} \frac{dt}{ds} \$ .
+* The Unit Vector Tangent:
+    *  \$ \hat{\mathbf{T}}(t) = \frac{\mathbf{r}^\prime(t)}{\Vert \mathbf{r}^\prime (t) \Vert} =  \frac{d\mathbf{r}}{ds} \$. 
+    * \$ \Vert \hat{\mathbf{T}} \Vert = 1 = \hat{\mathbf{T}}\cdot \hat{\mathbf{T}}\$. 
+    * \$ \hat{\mathbf{T}}\cdot \frac{d\hat{\mathbf{T}}}{dt} = 0 \$.
+* Principal Unit Normal: 
+    * \$ \hat{\mathbf{N}} = \frac{\hat{\mathbf{T}}}{\Vert\hat{\mathbf{T}}\Vert} \$. 
+* Curvature: 
+    * \$ \kappa = \Vert \frac{d\hat{\mathbf{T}}}{ds} \Vert  = \Vert \frac{d^2\hat{\mathbf{r}}}{ds^2} \Vert = \frac{\Vert\hat{\mathbf{T}}\Vert}{\Vert \mathbf{r}^\prime\Vert} \$. 
+* Radius of curvature: \$ a = 1/\kappa\$. 
+* Vector line integral of vector function \$ \mathbf{F}(\mathbf{r}(t))\$ given by \$ I  = \int_a^b \mathbf{F}(\mathbf(r(t))\cdot \mathbf{r}^\prime dt \$.
+* Scalar line integral of scalar function \$ \rho(\mathbf{r})\$  given by \$ I = \int_C \rho(\mathbf{r}) ds = \int_a^b \rho(\mathbf{r}) \Vert \mathbf{r}^\prime \Vert dt \$. 
+* Derivative
+    * Nabla : $\nabla = \partial_x \mathbf{i} + \partial_y \mathbf{j} + \partial_z \mathbf{k} \$. 
+    * Gradient of scalar function: \$ \nabla f = f_x \mathbf{i} + f_y \mathbf{j} + f_z \mathbf{k} \$. 
+    * Directional derivative: \$ D_{\mathbf{u}} f = \mathbf{u} \cdot \nabla f \$. 
