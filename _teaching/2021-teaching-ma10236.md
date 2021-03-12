@@ -8,7 +8,8 @@ date: 2021-01-29
 location: "Bath, UK"
 ---
 
-This page is for the 2020/21 Semester 2 module MA10236: Methods and Applications 1B. 
+This page is for the 2020/21 Semester 2 module MA10236:Methods and Applications 1B. The notes provided on this page are provided exclusively for educational purposes at the University of Bath and are to be used for private study only. 
+
 
 Deadlines and Tutorial Info
 ======
@@ -16,6 +17,7 @@ Deadlines and Tutorial Info
 Please submit your homework to me via moodle, weekly before Wednesday at 9AM (GMT). The tutorials are held weekly on zoom at the times described below. Please email me if you are going to miss a tutorial or can't make this homework deadline if you require an extension. 
 - A2: Fridays 12:15
 - A3: Fridays 13:15
+
 
 Week 1
 ======
@@ -95,20 +97,52 @@ Given a position vector \$ \mathbf{r} = \mathbf{r}(t) = x(t)\mathbf{i} + y(t)\ma
 * \$ \frac{d}{dt}(\Vert\mathbf{r}\Vert) = \frac{1}{\Vert \mathbf{r}\Vert}\mathbf{r}\cdot \mathbf{r}^\prime \$. 
 * If \$\mathbf{r} = \mathbf{r}(t)\$ and \$t = t(s)\$, then:
     * arc length: \$ s(t) = \int_{t_0}^t \Vert \mathbf{r}^\prime (\tau)\Vert d\tau \$. 
-    * \$ \frac{ds}{dt} = \Vert \mathbf{r}^\prime \Vert \$.
+    * \$ \frac{ds}{dt} = \Vert \mathbf{r}^\prime(t) \Vert \$.
     * \$ \frac{d\mathbf{r}}{ds} = \frac{d\mathbf{r}}{dt} \frac{dt}{ds} \$ .
 * The Unit Vector Tangent:
     *  \$ \hat{\mathbf{T}}(t) = \frac{\mathbf{r}^\prime(t)}{\Vert \mathbf{r}^\prime (t) \Vert} =  \frac{d\mathbf{r}}{ds} \$. 
     * \$ \Vert \hat{\mathbf{T}} \Vert = 1 = \hat{\mathbf{T}}\cdot \hat{\mathbf{T}}\$. 
     * \$ \hat{\mathbf{T}}\cdot \frac{d\hat{\mathbf{T}}}{dt} = 0 \$.
 * Principal Unit Normal: 
-    * \$ \hat{\mathbf{N}} = \frac{\hat{\mathbf{T}}}{\Vert\hat{\mathbf{T}}\Vert} \$. 
+    * \$ \hat{\mathbf{N}} = \frac{\hat{\mathbf{T}}^\prime}{\Vert\hat{\mathbf{T}}^\prime\Vert} \$. 
 * Curvature: 
-    * \$ \kappa = \Vert \frac{d\hat{\mathbf{T}}}{ds} \Vert  = \Vert \frac{d^2\hat{\mathbf{r}}}{ds^2} \Vert = \frac{\Vert\hat{\mathbf{T}}\Vert}{\Vert \mathbf{r}^\prime\Vert} \$. 
+    * \$ \kappa = \Vert \frac{d\hat{\mathbf{T}}}{ds} \Vert  = \Vert \frac{d^2\hat{\mathbf{r}}}{ds^2} \Vert = \frac{\Vert\hat{\mathbf{T}}^\prime \Vert}{\Vert \mathbf{r}^\prime\Vert} \$. 
 * Radius of curvature: \$ a = 1/\kappa\$. 
-* Vector line integral of vector function \$ \mathbf{F}(\mathbf{r}(t))\$ given by \$ I  = \int_a^b \mathbf{F}(\mathbf(r(t))\cdot \mathbf{r}^\prime dt \$.
+* Vector line integral of vector function \$ \mathbf{F}(\mathbf{r}(t))\$ given by \$ I  = \int_a^b \mathbf{F}(\mathbf{r}(t))\cdot \mathbf{r}^\prime(t) dt \$.
 * Scalar line integral of scalar function \$ \rho(\mathbf{r})\$  given by \$ I = \int_C \rho(\mathbf{r}) ds = \int_a^b \rho(\mathbf{r}) \Vert \mathbf{r}^\prime \Vert dt \$. 
 * Derivative
     * Nabla : $\nabla = \partial_x \mathbf{i} + \partial_y \mathbf{j} + \partial_z \mathbf{k} \$. 
     * Gradient of scalar function: \$ \nabla f = f_x \mathbf{i} + f_y \mathbf{j} + f_z \mathbf{k} \$. 
     * Directional derivative: \$ D_{\mathbf{u}} f = \mathbf{u} \cdot \nabla f \$. 
+
+* Worked Example: For a curve given by \$ \mathbf{r}(t) = 3t^2\mathbf{i} + 2t\mathbf{j} + \mathbf{k}\$. Find:
+    * Unit tangent vector: 
+    * Arc length measured from the point \$ A= (12, 4, 1 ) \$. 
+    * Principal unit normal: 
+    * Curvature:
+    * Where the vector function is \$ \mathbf{F}(\mathbf{r}) = (x+y)\mathbf{i} + z\mathbf{j} \$ for \$ 0 \le t \le 1\$, the vector line integral:
+    * Where the scalar function is \$ \rho(\mathbf{r}) = x+y-2z \$ for \$ 0 \le t \le 1\$, the scalar line integral:
+
+Week 6
+=====
+* Differentiating vectors: 
+    * \$ \frac{d}{dt} ( \mathbf{c}) = \mathbf{0} \$. 
+    * \$ \frac{d}{dt} ( \mathbf{r}_1(t) + \mathbf{r}_2(t)) = \frac{d}{dt}(\mathbf{r}_1(t)) + \frac{d}{dt}(\mathbf{r}_2(t))\$. 
+    * \$ \frac{d}{dt}(\mathbf{r}_1(t) \cdot \mathbf{r}_2(t)) = \frac{d\mathbf{r}_1}{dt} \cdot \mathbf{r}_2 +  \mathbf{r}_1\cdot \frac{d\mathbf{r}_2}{dt}
+    * \$  \frac{d}{dt}(\mathbf{r}_1(t) \times \mathbf{r}_2(t)) \frac{d\mathbf{r}_1}{dt} \times \mathbf{r}_2 +  \mathbf{r}_1\times\frac{d\mathbf{r}_2}{dt} \$. Order matters.
+* Position vector of a particle \$ P\$ is given by \$ \mathbf{x}(t)\$.
+    * \$ r(t) = \Vert \mathbf{x}(t) \Vert \$. 
+    * The velocity of the particle \$ \mathbf{v}(t) = \dot{\mathbf{x}} = \frac{d\mathbf{x}}{dt}\$. 
+    * The speed of the particle: \$ v = \Vert \mathbf{v} \Vert \$. 
+    * The acceleration of the particle: \$ \mathbf{a} = \dot{\mathbf{v}} = \frac{d\mathbf{v}}{dt} =  \ddot{\mathbf{x}} =  \frac{d^2\mathbf{x}}{dt^2} \$. 
+* Identities: 
+    * \$ r\dot{r} = \mathbf{x} \cdot \dot{\mathbf{x}}\$. 
+    * \$ v \dot{v} = \dot{\mathbf{x}} \cdot \ddot{\mathbf{x}} = \mathbf{v} \cdot \dot{\mathbf{v}} \$. 
+* Remember how to solve second order ODE's
+    * General soltion = Complimentary function + Particular integral.
+    * Integrating Factor.
+    * Integrate out.
+* Cartesian to cylindrical polar basis vectors: 
+    * \$ \mathbf{e}_r = \cos\theta \mathbf{i} + \sin \theta \mathbf{j} \$.
+    * \$ \mathbf{e}_\theta = -\sin \theta \mathbf{i} + \cos \theta \mathbf{j} \$. 
+    * \$ \mathbf{e}_z} = \mathbf{k} \$. 
