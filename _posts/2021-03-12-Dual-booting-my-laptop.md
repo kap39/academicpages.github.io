@@ -1,6 +1,6 @@
 ---
 title: 'Dual Booting my laptop'
-date: 2021-03-23
+date: 2021-03-12
 permalink: /posts/2021/03/Dual-booting-my-laptop
   - How to Guide
 
