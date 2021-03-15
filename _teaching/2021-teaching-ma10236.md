@@ -121,12 +121,12 @@ Given a position vector \$ \mathbf{r} = \mathbf{r}(t) = x(t)\mathbf{i} + y(t)\ma
         * Then we have \$ \Vert \mathbf{r}^\prime \Vert = \sqrt{ (6t)^2 + 2^4} =\sqrt{36t^2 + 4} = 2 \sqrt{9t^2 + 1}\$. 
         * Finally \$\hat{\mathbf{T}} = \frac{\mathbf{r}^\prime}{\Vert \mathbf{r}^\prime \Vert} = \frac{3t\mathbf{i} + \mathbf{j}}{\sqrt{9t^2 + 1}} \$.
     * Arc length measured from the point \$ A= (12, 4, 1 ) \$. 
-        * Need to find \( t_0\) at \( A = (12, 4, 1) \). which has \$ x = 3t^2 = 12\$, \$ y = 2t = 4\$ and $z= 1 = 1\$. Hence \$t_0 = 2\$.
+        * Need to find \$ t_0\$ at \$ A = (12, 4, 1) \$. which has \$ x = 3t^2 = 12\$, \$ y = 2t = 4\$ and $z= 1 = 1\$. Hence \$t_0 = 2\$.
         * \$ s(t) = \int_2^t \Vert \mathbf{r}(\tau) \Vert d\tau = t\sqrt{9t^2+1}  + \frac{1}{3}\sinh^{-1}(3t) -(2\sqrt{37}+\frac{1}{3}\sinh^{-1}(6))\$. 
     * Principal unit normal: 
         * First: \$ \hat{\mathbf{T}}^\prime = \frac{3}{(9t^2+1)^{3/2}}\mathbf{i} - \frac{9t}{(9t^2+1)^{3/2}}\mathbf{j}\$. 
         * Then we have \$ \Vert \hat{\mathbf{T}^\prime \Vert = \sqrt{ (6t)^2 + 2^4} \sqrt{36t^2 + 4} = 2 \sqrt{9t^2 + 1}\$. 
-        * Finally $\hat{\mathbf{T}} = \frac{\mathbf{r}^\prime}{\Vert \mathbf{r}^\prime \Vert} = \frac{3t\mathbf{i} + \mathbf{j}}{\sqrt{9t^2 + 1}} \$.
+        * Finally \$\hat{\mathbf{T}} = \frac{\mathbf{r}^\prime}{\Vert \mathbf{r}^\prime \Vert} = \frac{3t\mathbf{i} + \mathbf{j}}{\sqrt{9t^2 + 1}} \$.
     * Curvature:
         * \$ \kappa = \frac{\Vert \hat{\mathbf{T}}^\prime\Vert}{\vert{\mathbf{r}^\prime \Vert} = \frac{3}{2\sqrt{9t^2+1}} \$.
     * Where the vector function is \$ \mathbf{F}(\mathbf{r}) = (x+y)\mathbf{i} + z\mathbf{j} \$ for \$ 0 \le t \le 1\$, the vector line integral:
