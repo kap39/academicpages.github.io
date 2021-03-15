@@ -126,7 +126,7 @@ Given a position vector \$ \mathbf{r} = \mathbf{r}(t) = x(t)\mathbf{i} + y(t)\ma
     * Principal unit normal: 
         * First: \$ \hat{\mathbf{T}}^\prime = \frac{3}{(9t^2+1)^{3/2}}\mathbf{i} - \frac{9t}{(9t^2+1)^{3/2}}\mathbf{j}\$. 
         * Then we have \$ \Vert \hat{\mathbf{T}^\prime \Vert = \sqrt{ (6t)^2 + 2^4} \sqrt{36t^2 + 4} = 2 \sqrt{9t^2 + 1}\$. 
-        * Finally $\hat{\mathbf{T}} = \frac{\mathbf{r}^\prime}{\Vert \mathbf{r}^\prime \Vert}\$ = \frac{3t\mathbf{i} + \mathbf{j}}{\sqrt{9t^2 + 1}} \$.
+        * Finally $\hat{\mathbf{T}} = \frac{\mathbf{r}^\prime}{\Vert \mathbf{r}^\prime \Vert} = \frac{3t\mathbf{i} + \mathbf{j}}{\sqrt{9t^2 + 1}} \$.
     * Curvature:
         * \$ \kappa = \frac{\Vert \hat{\mathbf{T}}^\prime\Vert}{\vert{\mathbf{r}^\prime \Vert} = \frac{3}{2\sqrt{9t^2+1}} \$.
     * Where the vector function is \$ \mathbf{F}(\mathbf{r}) = (x+y)\mathbf{i} + z\mathbf{j} \$ for \$ 0 \le t \le 1\$, the vector line integral:
@@ -135,7 +135,7 @@ Given a position vector \$ \mathbf{r} = \mathbf{r}(t) = x(t)\mathbf{i} + y(t)\ma
         * \$ I = \int_0^1 \mathbf{F}(\mathbf{r}(t)) \cdot \mathbf{r}^\prime dt = 19/2 \$.
     * Where the scalar function is \$ \rho(\mathbf{r}) = x-2z \$ for \$ 0 \le t \le 1\$, the scalar line integral:
         * In terms of \$ t\$, \$ \rho(\mathbf{r}(t)) = 3t^2- 4 \$. 
-        * \$ I = \int_0^1 2(3t^2-4)\sqrt{9t^2+1} dt \approxeq 32 \$.
+        * \$ I = \int_0^1 2(3t^2-4)\sqrt{9t^2+1} dt \approx 32 \$.
 
 Week 6
 =====
