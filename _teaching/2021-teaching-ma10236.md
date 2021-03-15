@@ -125,10 +125,10 @@ Given a position vector \$ \mathbf{r} = \mathbf{r}(t) = x(t)\mathbf{i} + y(t)\ma
         * \$ s(t) = \int_2^t \Vert \mathbf{r}(\tau) \Vert d\tau = t\sqrt{9t^2+1}  + \frac{1}{3}\sinh^{-1}(3t) -(2\sqrt{37}+\frac{1}{3}\sinh^{-1}(6))\$. 
     * Principal unit normal: 
         * First: \$ \hat{\mathbf{T}}^\prime = \frac{3}{(9t^2+1)^{3/2}}\mathbf{i} - \frac{9t}{(9t^2+1)^{3/2}}\mathbf{j}\$. 
-        * Then we have \$ \Vert \hat{\mathbf{T}^\prime \Vert = \sqrt{ (6t)^2 + 2^4} \sqrt{36t^2 + 4} = 2 \sqrt{9t^2 + 1}\$. 
+        * Then we have \$ \Vert \hat{\mathbf{T}}^\prime \Vert =\sqrt{\frac{18t^2 + 9}{(9t^2+1)^3}} = \frac{3}{9t^2+1}\$. 
         * Finally \$\hat{\mathbf{T}} = \frac{\mathbf{r}^\prime}{\Vert \mathbf{r}^\prime \Vert} = \frac{3t\mathbf{i} + \mathbf{j}}{\sqrt{9t^2 + 1}} \$.
     * Curvature:
-        * \$ \kappa = \frac{\Vert \hat{\mathbf{T}}^\prime\Vert}{\vert{\mathbf{r}^\prime \Vert} = \frac{3}{2\sqrt{9t^2+1}} \$.
+        * \$ \kappa = \frac{\Vert \hat{\mathbf{T}}^\prime\Vert}{\Vert\mathbf{r}^\prime \Vert} = \frac{3}{2\sqrt{9t^2+1}} \$.
     * Where the vector function is \$ \mathbf{F}(\mathbf{r}) = (x+y)\mathbf{i} + z\mathbf{j} \$ for \$ 0 \le t \le 1\$, the vector line integral:
         * In terms of \$t\$, \$ \mathbf{F}(\mathbf{r}(t)) = (3t^2 + 2t)\mathbf{i} + \mathbf{j} \$. 
         * \$ \mathbf{F}(\mathbf{r}(t)) \cdot \mathbf{r}^\prime = (3t^2 + 2t)6t + 2 = 18t^3 + 12t^2 + 2 \$. 
