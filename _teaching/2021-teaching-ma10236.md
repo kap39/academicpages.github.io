@@ -117,14 +117,14 @@ Given a position vector \$ \mathbf{r} = \mathbf{r}(t) = x(t)\mathbf{i} + y(t)\ma
 
 * Worked Example: For a curve given by \$ \mathbf{r}(t) = 3t^2\mathbf{i} + 2t\mathbf{j} + \mathbf{k}\$. Find:
     * Unit tangent vector: 
-        * First: \$ \mathf{r}^\prime = 6t \mathbf{i} + 2 \mathbf{j}\$. 
-        * Then we have \$ \Vert \mathbf{r}^\prime \Vert = \sqrt{ (6t)^2 + 2^4} \sqrt{36t^2 + 4} = 2 \sqrt{9t^2 + 1}\$. 
-        * Finally $\hat{\mathbf{T}} = \frac{\mathbf{r}^\prime}{\Vert \mathbf{r}^\prime \Vert}\$ = \frac{3t\mathbf{i} + \mathbf{j}}{\sqrt{9t^2 + 1}} \$.
+        * First: \$ \mathbf{r}^\prime = 6t \mathbf{i} + 2 \mathbf{j}\$. 
+        * Then we have \$ \Vert \mathbf{r}^\prime \Vert = \sqrt{ (6t)^2 + 2^4} =\sqrt{36t^2 + 4} = 2 \sqrt{9t^2 + 1}\$. 
+        * Finally \$\hat{\mathbf{T}} = \frac{\mathbf{r}^\prime}{\Vert \mathbf{r}^\prime \Vert} = \frac{3t\mathbf{i} + \mathbf{j}}{\sqrt{9t^2 + 1}} \$.
     * Arc length measured from the point \$ A= (12, 4, 1 ) \$. 
         * Need to find \( t_0\) at \( A = (12, 4, 1) \). which has \$ x = 3t^2 = 12\$, \$ y = 2t = 4\$ and $z= 1 = 1\$. Hence \$t_0 = 2\$.
-        * \$ s(t) = \int_2^t \Vert \mathbf{r}(\tau) \Vert d\tau = t\sqrt{9t^2+1}  + \frac{1}{3}\sinh^{-1}(3t) -(2\sqrt{37}+\frac{1}{3}\sinh^{-1}(6)\$. 
+        * \$ s(t) = \int_2^t \Vert \mathbf{r}(\tau) \Vert d\tau = t\sqrt{9t^2+1}  + \frac{1}{3}\sinh^{-1}(3t) -(2\sqrt{37}+\frac{1}{3}\sinh^{-1}(6))\$. 
     * Principal unit normal: 
-        * First: \$ \hat{\mathbf{T}}^\prime = \frac{3}{\sqrt{9t^2+1}^{3/2}}\mathbf{i} - \frac{9t}{\sqrt{9t^2+1}^{3/2}}\mathbf{j}\$. 
+        * First: \$ \hat{\mathbf{T}}^\prime = \frac{3}{(9t^2+1)^{3/2}}\mathbf{i} - \frac{9t}{(9t^2+1)^{3/2}}\mathbf{j}\$. 
         * Then we have \$ \Vert \hat{\mathbf{T}^\prime \Vert = \sqrt{ (6t)^2 + 2^4} \sqrt{36t^2 + 4} = 2 \sqrt{9t^2 + 1}\$. 
         * Finally $\hat{\mathbf{T}} = \frac{\mathbf{r}^\prime}{\Vert \mathbf{r}^\prime \Vert}\$ = \frac{3t\mathbf{i} + \mathbf{j}}{\sqrt{9t^2 + 1}} \$.
     * Curvature:
@@ -132,7 +132,7 @@ Given a position vector \$ \mathbf{r} = \mathbf{r}(t) = x(t)\mathbf{i} + y(t)\ma
     * Where the vector function is \$ \mathbf{F}(\mathbf{r}) = (x+y)\mathbf{i} + z\mathbf{j} \$ for \$ 0 \le t \le 1\$, the vector line integral:
         * In terms of \$t\$, \$ \mathbf{F}(\mathbf{r}(t)) = (3t^2 + 2t)\mathbf{i} + \mathbf{j} \$. 
         * \$ \mathbf{F}(\mathbf{r}(t)) \cdot \mathbf{r}^\prime = (3t^2 + 2t)6t + 2 = 18t^3 + 12t^2 + 2 \$. 
-        * \$ I = \int_0^1 \mathbf{F}(\mathbf{r}(t)) \cdot \mathbf{r}^\prime dt = 19/2
+        * \$ I = \int_0^1 \mathbf{F}(\mathbf{r}(t)) \cdot \mathbf{r}^\prime dt = 19/2 \$.
     * Where the scalar function is \$ \rho(\mathbf{r}) = x-2z \$ for \$ 0 \le t \le 1\$, the scalar line integral:
         * In terms of \$ t\$, \$ \rho(\mathbf{r}(t)) = 3t^2- 4 \$. 
         * \$ I = \int_0^1 2(3t^2-4)\sqrt{9t^2+1} dt \approxeq 32 \$.
