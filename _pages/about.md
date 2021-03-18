@@ -30,6 +30,7 @@ Outside of academia I can be found enjoying various different aerial sports, cir
 
 
 ## Conferences and Symposia
+  * Attended the Univeristy of Bath [Women in Maths Conference](https://www.bath.ac.uk/events/bath-women-in-maths-conference-2021/) - _Mar '21_
   * Attended SAMBa's virtual [13<sup>th</sup> Integrative think tank](https://people.bath.ac.uk/mtp34/itt13.html) - _Jan '21_
   * Attended SAMBa's virtual [12<sup>th</sup> Integrative think tank](https://www.bath.ac.uk/events/integrative-think-tank-12/) - _Sept '20_
   * Spoke at the virtual [SAMBa Conference](https://people.bath.ac.uk/mk961/SAMBa_Conf.html) - _Jul '20_
