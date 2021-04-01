@@ -160,3 +160,12 @@ Week 6
     * \$ \mathbf{e}_r = \cos\theta \mathbf{i} + \sin \theta \mathbf{j} \$.
     * \$ \mathbf{e}_\theta = -\sin \theta \mathbf{i} + \cos \theta \mathbf{j} \$. 
     * \$ \mathbf{e}_z = \mathbf{k} \$. 
+
+Week 7
+====
+* Harmonic equation : \$ \''{\mathbf{x}} + \omega \mathbf{x} = 0\$, \$\omega = \$ constant. 
+    * General solution of the form \$ \mathbf{x}(t) = \mathbf{a}\cos(\omega t) + \mathbf{b}\sin(\omega t)\$. 
+    * Periodic solution with period \$T= 2\pi /\omega\$. 
+* Orbits
+    * Work in Polar coordinates \$ \mathbf{e}\_r, \mathbf{e}\_\theta\$
+    * Following a moving point \$ \'{\mathbf{e}}_r = \'{\theta}\mathbf{e}\_\theta\$.
