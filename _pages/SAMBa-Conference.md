@@ -14,7 +14,7 @@ redirect_from:
 
 # [Welcome and Information](#welcome-and-information) 
 
-![Conference '20 Attendees](kap39.github.io/images/conference20.jpg)
+![Conference '20 Attendees](/kap39.github.io/images/conference20.jpg)
 
 Welcome to the fifth annual SAMBa Summer Conference, taking place 5th to 7th of July. This website will be updated with conference details as they are confirmed. 
 
@@ -39,6 +39,6 @@ The conference is being organised by 4 SAMBa PhD students. If you are interested
 
 |Katie Phillips | Shahzeb Raja Noureen | Chris Dean | Yi Sheng Lim | 
 |:-------------:|:--------------------:|:----------:|:------------:|
-|Fluid dynamics: <br> lubrication theory and interfacial waves |Stochastic modelling of melanoblast neural crest cells|Polya urn processes with infinite initial conditions|Spectral theory of random operators|
+|Fluid dynamics: <br> lubrication theory and interfacial waves |Stochastic modeling of melanoblast neural crest cells|Polya urn processes with infinite initial conditions|Spectral theory of random operators|
 |kap39 at bath.ac.uk | srn32 at bath.ac.uk | cbcd20 at bath.ac.uk | ysl64 at bath.ac.uk |
 
