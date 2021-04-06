@@ -185,7 +185,7 @@ Week 7
     * Resistive forces e.g friction, viscosity, and drag. These forces act to oppose motion of a particle. 
     * Central forces e.g gravity between a body and a satellite. This force acts towards or away from the center of force.
     * The force between two bodies is often given by an inverse square law. For bodies \$ \mathbf{x}_1, \mathbf{x}_2\$ we have
-    \$\$ \mathbf{F} =K \frac{\mathbf{x}_1 - \mathbf{x}_2}{\Vert \mathbf{x_1} - \mathbf{x}_2\Vert^3} \nonumber\$\$
+    \begin{equation*} \mathbf{F} =K \frac{\mathbf{x}_1 - \mathbf{x}_2}{\Vert \mathbf{x_1} - \mathbf{x}_2\Vert^3} \end{equation*}
 
 Week 8 
 ====
