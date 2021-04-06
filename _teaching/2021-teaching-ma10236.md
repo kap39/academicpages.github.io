@@ -174,4 +174,18 @@ Week 7
     * \$ \dot{\theta} \$ is the angular momentum (denoted \$ \omega \$).
 * Keplers Laws 
     * *K1* Each planet moves in an ellipse with the Sun as its focus. 
-    * *K2* 
+    * *K2* Areas swept out by a line segment connecting the orbit and a planet in equal times are equal.
+    * *K3* The perido of revolution squared is proportional to the semi major axis cubed: \$T^2 = ca^3\$. 
+* Newtons Laws
+    * *N1* Bodies have constant velocity unless acted upon by external forces (inertia)
+    * *N2* A particle of mass \$m\$ acted upon by a force \$\mathbf{F}\$  has an acceleration determined by \$\mathbf{F} = m \mathbf{a}\$. 
+    * *N3* Two bodies exert forces on eachother which are: equal in magnitude, in opposite direction to eachother, and parallel to the straight line joining the two bodies.
+* Forces
+    * Constant forces e.g gravity close to the earths surface,  are described by a constant vector. 
+    * Resistive forces e.g friction, viscosity, and drag. These forces act to oppose motion of a particle. 
+    * Central forces e.g gravity between a body and a satellite. This force acts towards or away from the center of force.
+    * The force between two bodies is often given by an inverse square law. For bodies \$ \mathbf{x}_1, \mathbf{x}_2\$ we have
+    \$\$ \mathbf{F} =K \frac{\mathbf{x}_1 - \mathbf{x}_2}{\Vert \mathbf{x_1} - \mathbf{x}_2\Vert^3}\$\$
+
+Week 8 
+====
