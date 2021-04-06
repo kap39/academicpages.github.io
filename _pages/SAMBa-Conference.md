@@ -14,7 +14,7 @@ redirect_from:
 
 # [Welcome and Information](#welcome-and-information) 
 
-![](/kap39.github.io/images/conference20.jpg)
+![Conference 19 Attendees](/kap39.github.io/images/conference20.jpg)
 
 Welcome to the fifth annual SAMBa Summer Conference, taking place 5th to 7th of July. This website will be updated with conference details as they are confirmed. 
 

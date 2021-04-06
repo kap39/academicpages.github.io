@@ -163,9 +163,15 @@ Week 6
 
 Week 7
 ====
-* Harmonic equation : \$ \''{\mathbf{x}} + \omega \mathbf{x} = 0\$, \$\omega = \$ constant. 
+* Harmonic equation : \$ \ddot{\mathbf{x}} + \omega \mathbf{x} = 0\$, \$\omega = \$ constant. 
     * General solution of the form \$ \mathbf{x}(t) = \mathbf{a}\cos(\omega t) + \mathbf{b}\sin(\omega t)\$. 
     * Periodic solution with period \$T= 2\pi /\omega\$. 
 * Orbits
     * Work in Polar coordinates \$ \mathbf{e}\_r, \mathbf{e}\_\theta\$
-    * Following a moving point \$ \'{\mathbf{e}}_r = \'{\theta}\mathbf{e}\_\theta\$.
+    * Following a moving point \$\dot{\mathbf{e}}_r=\dot{\theta}\mathbf{e}\_\theta\$, and \$\dot{\mathbf{e}}\_\theta=-\dot{\theta}\mathbf{e}\_r\$
+    * Position vector \$ \mathbf{x}(t) = r(t) \mathbf{e}_r(\theta(t))\$. 
+    * \$ \ddot{\mathbf{x}} = (\ddot{r}-r\dot{\theta}^2)\mathbf{e}\_r + (r\ddot{\theta} + 2\dot{r}\dot{\theta})\mathbf{e}_\theta\$.
+    * \$ \dot{\theta} \$ is the angular momentum (denoted \$ \omega \$).
+* Keplers Laws 
+    * *K1* Each planet moves in an ellipse with the Sun as its focus. 
+    * *K2* 
