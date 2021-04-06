@@ -8,7 +8,7 @@ date: 2021-01-29
 location: "Bath, UK"
 ---
 
-This page is for the 2020/21 Semester 2 module MA10236:Methods and Applications 1B. The notes provided on this page are provided exclusively for educational purposes at the University of Bath and are to be used for private study only. 
+This page is for the 2020/21 Semester 2 module MA10236:Methods and Applications 1B. The notes provided on this page are provided exclusively for educational purposes at the University of Bath  to supplement the module MA10236, and are to be used for private study only. 
 
 
 Deadlines and Tutorial Info
@@ -184,8 +184,27 @@ Week 7
     * Constant forces e.g gravity close to the earths surface,  are described by a constant vector. 
     * Resistive forces e.g friction, viscosity, and drag. These forces act to oppose motion of a particle. 
     * Central forces e.g gravity between a body and a satellite. This force acts towards or away from the center of force.
-    * The force between two bodies is often given by an inverse square law. For bodies \$ \mathbf{x}_1, \mathbf{x}_2\$ we have
+    * The force between two bodies is often given by an inverse square law, . For bodies \$ \mathbf{x}_1, \mathbf{x}_2\$ we have
     \$\$ \mathbf{F} =K \frac{\mathbf{x}_1 - \mathbf{x}_2}{\Vert \mathbf{x_1} - \mathbf{x}_2\Vert^3} \nonumber \$\$
-
+        which is either attractive or repulsive based on the sign of \$K\$.
+    * The weight of a particle close to the surface of the earth is \$ \mathbf{F} = m \mathbf{g}\$. 
+* Projectiles 
+    * Under gravity with no air resistance
+        * Equation of motion \$ \ddot{\mathbf{x}} = \mathbf{g} \$.
+        * Motion governed by \$ \matahbf{x}(t) = \mathbf{x}_0 + \mathbf{v}_0 t + \frac{1}{2} \mathbf{g}t^2 \$. 
+        * Initial position \$ \mathbf{x}(0) = \mathbf{x}_0\$, launched at angle \$\alpha\$ from the horizontal with  initial velocity\$ \mathbf{v}(0) = \dot{\mathbf{x}}(0) = \mathbf{v}_0\$. 
+        * Horizontal distange (range) given by \$ X = \frac{v_0^2 \sin(2\alpha)}{g}\$ maximum at \$\alpha = \frac{\pi}{4}, X = \frac{v_0^2}{g}\$. 
+    * Under gravity with air resistance
+        * Now equation of motion has drag forces: \$ \ddot{\mathbf{x}} + \frac{\mu}{m} \dot{\mathbf{x}} = \mathbf{g}\$.
+        * Trajectory is now different and range equation is also different. 
+<!--
 Week 8 
 ====
+
+* A Simple Pendulum: A Particle \$P\$ suspended from a fixed point \$O\$ by an inextensible length of sting of length \$l\$. Subject to uniform gravity and moves in the vertical plane containing \$O\$. 
+    * Define angle \$\theta\$ to the vertical and work in polar coordinates. The position of the particle given by \$ \mathbf{x} = r\mathbf{e}_r\$.
+    * Tension \$\mathbf{T}\$ in the string acts in the direction \$-\mathbf{e}_r\$.
+    * The weight of the particle is given by \$ -mg\mathbf{k}\$. 
+    * Resolving forves gives the equation of motion \$ m\ddot{\mathbf{x}} = m\mathbf{g} + \mathbf{T} \$.
+
+-->
